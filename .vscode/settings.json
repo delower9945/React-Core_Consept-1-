@@ -1,0 +1,6 @@
+{
+    "intelephense.telemetry.enabled": false,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+     }
+}
